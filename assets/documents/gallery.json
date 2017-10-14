@@ -1,0 +1,24 @@
+{
+	"gallery": [
+	{
+		"title":"chat",
+		"src" : "assets/images/chat.jpg",
+		"category":"images"
+	},
+	{
+		"title":"mama",
+		"src" : "assets/images/mama.jpg",
+		"category":"images"
+	},
+	{
+		"title":"pease",
+		"src" : "assets/images/pease.jpg",
+		"category":"images"
+	},
+	{
+		"title":"playboy",
+		"src" : "assets/images/playboy.jpg",
+		"category":"images"
+	}
+]
+}
