@@ -2,12 +2,52 @@ h1, h2, h3, h4, h5, h6, ul, li, p{
 	margin: 0;
 	padding: 0;
 	list-style: none;
-}
+}`
 .mt-30{
 	margin-top: 30px;
 }
 .mb-30{
 	margin-bottom: 30px;
+}
+/*header nav ul li{
+	display: inline-block;
+}*/
+body{
+	 background: url(/assets/images/sfbg.jpg);
+	 background-attachment: fixed;
+}
+header{
+	display: inline-box;
+  background: #000;
+  color: #fff;
+  padding: 15px 20px;
+  position: fixed;
+  z-index: 1;
+
+}
+header nav ul li img{
+	width: 45px;
+	cursor: pointer;
+}
+.filter-dropdown-menu{
+  background: transparent;
+  color: #fff;
+  border: none;
+  outline: none;
+}
+.nav-menu{
+	margin-top: 8px;
+}
+.nav-menu li{
+	display: inline-block;
+	margin-left: 10px;
+}
+.nav-menu li a{
+	color: #fff;
+}
+/*section style*/
+section{
+	margin-top: 100px;
 }
 .feed-container img, .feed-container video{
 	width: 100%;

@@ -1,16 +1,16 @@
 {
 	"gallery": [
 		{
-			"title":"josiyar",
-			"src" : "assets/images/josiyar.jpg",
-			"category":"image",
-			"id":"1"
-		},
-		{
+			"id":"2",
 			"title":"dog",
 			"src" : "assets/videos/dog.mp4",
-			"category":"video",
-			"id":"2"
+			"category":"video"
+		},
+		{
+			"id":"1",
+			"title":"josiyar",
+			"src" : "assets/images/josiyar.jpg",
+			"category":"image"
 		}
 	]
 }
