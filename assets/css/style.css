@@ -9,6 +9,27 @@ h1, h2, h3, h4, h5, h6, ul, li, p{
 .mb-30{
 	margin-bottom: 30px;
 }
-/*.feed-container img{
+.feed-container img, .feed-container video{
 	width: 100%;
-}*/
+	display: block;
+	text-align: center;
+	overflow: hidden;
+}
+.download a{
+	background: green;
+	height: 50px;
+	width: 50px;
+	border-radius: 50%;
+	color: #fff;
+	display: block;
+	margin: auto;
+}
+.download a:hover{
+	text-decoration: none;
+}
+.download a i{
+	line-height: 50px;
+	text-align: center;
+	display: block;
+	font-size: 20px;
+}

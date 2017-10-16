@@ -1,24 +1,16 @@
 {
 	"gallery": [
-	{
-		"title":"chat",
-		"src" : "assets/images/chat.jpg",
-		"category":"images"
-	},
-	{
-		"title":"mama",
-		"src" : "assets/images/mama.jpg",
-		"category":"images"
-	},
-	{
-		"title":"pease",
-		"src" : "assets/images/pease.jpg",
-		"category":"images"
-	},
-	{
-		"title":"playboy",
-		"src" : "assets/images/playboy.jpg",
-		"category":"images"
-	}
-]
+		{
+			"title":"josiyar",
+			"src" : "assets/images/josiyar.jpg",
+			"category":"image",
+			"id":"1"
+		},
+		{
+			"title":"dog",
+			"src" : "assets/videos/dog.mp4",
+			"category":"video",
+			"id":"2"
+		}
+	]
 }
